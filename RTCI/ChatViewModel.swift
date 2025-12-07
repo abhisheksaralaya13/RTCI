@@ -9,6 +9,7 @@
 import Foundation
 import Combine
 
+/// View model managing messages, conversations, offline queue and WebSocket state.
 final class ChatViewModel: ObservableObject {
     // MARK: - Published state
     

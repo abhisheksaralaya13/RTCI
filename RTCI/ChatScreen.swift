@@ -8,6 +8,7 @@
 
 import SwiftUI
 
+/// Root screen that shows the chatbot conversations and messages on a single screen.
 struct ChatScreen: View {
     @StateObject private var viewModel: ChatViewModel
     @State private var currentInput: String = ""

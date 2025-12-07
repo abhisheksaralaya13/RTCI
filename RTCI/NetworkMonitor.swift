@@ -9,6 +9,7 @@
 import Network
 import Combine
 
+/// Monitors network connectivity and exposes an `isOnline` flag.
 final class NetworkMonitor: ObservableObject {
     static let shared = NetworkMonitor()
     

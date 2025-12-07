@@ -8,7 +8,7 @@
 
 import Foundation
 
-/// Manages real-time WebSocket connection and incoming message handling.
+/// Wraps URLSessionWebSocketTask and exposes a simple send/receive API for the chat.
 final class ChatWebSocketClient {
     enum Status {
         case connecting
