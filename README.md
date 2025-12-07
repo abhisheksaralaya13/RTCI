@@ -5,6 +5,8 @@
 This project is a single-screen mobile chat application that supports real-time communication and offline message queuing, developed based on the provided assignment requirements.
 
 ---
+## Demo Video
+https://drive.google.com/file/d/1FPu7V9Phwf1bq-9ZEVxmRiCYqPFyCR2a/view?usp=sharing
 
 ## 🚀 Features
 
